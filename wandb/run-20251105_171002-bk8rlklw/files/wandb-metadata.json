@@ -1,0 +1,25 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.13.7",
+  "startedAt": "2025-11-05T12:10:02.105906Z",
+  "program": "ignore",
+  "git": {
+    "remote": "https://github.com/ramshaintodata/mlops-project-v2.git",
+    "commit": "bc477dc72855fc97fbd07b19fb32b16ed84de866"
+  },
+  "root": "c:\\Users\\LENOVO\\Documents\\Repository\\Data And Ai\\mlops-project-v2\\mlops-project-v2",
+  "host": "DESKTOP-1HG1J2G",
+  "executable": "c:\\Users\\LENOVO\\Documents\\Repository\\Data And Ai\\mlops-project-v2\\mlops-project-v2\\venv\\Scripts\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "254931890176",
+      "used": "250098294784"
+    }
+  },
+  "memory": {
+    "total": "8379490304"
+  },
+  "writerId": "zxyodw3ofzqps8udk3iq6mz3id1ntn48"
+}

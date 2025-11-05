@@ -1,0 +1,1 @@
+{"_runtime":0,"val_recall":0.6695,"_timestamp":1.7623446358462665e+09,"_step":0,"val_accuracy":0.8873333333333333,"val_roc_auc":0.9423969285714286,"val_precision":0.791371158392435,"_wandb":{"runtime":0}}

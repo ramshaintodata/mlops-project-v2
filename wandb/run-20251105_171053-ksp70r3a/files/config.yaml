@@ -1,0 +1,55 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            oqx0lj3neg4pfbtr74vdy1cz4u5jumie:
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "254931890176"
+                        used: "250099634176"
+                executable: c:\Users\LENOVO\Documents\Repository\Data And Ai\mlops-project-v2\mlops-project-v2\venv\Scripts\python.exe
+                git:
+                    commit: bc477dc72855fc97fbd07b19fb32b16ed84de866
+                    remote: https://github.com/ramshaintodata/mlops-project-v2.git
+                host: DESKTOP-1HG1J2G
+                memory:
+                    total: "8379490304"
+                os: Windows-11-10.0.22631-SP0
+                program: ignore
+                python: CPython 3.13.7
+                root: c:\Users\LENOVO\Documents\Repository\Data And Ai\mlops-project-v2\mlops-project-v2
+                startedAt: "2025-11-05T12:10:53.528339Z"
+                writerId: oqx0lj3neg4pfbtr74vdy1cz4u5jumie
+        m: []
+        python_version: 3.13.7
+        t:
+            "1":
+                - 5
+                - 6
+                - 53
+            "2":
+                - 5
+                - 6
+                - 53
+            "3":
+                - 2
+                - 14
+            "4": 3.13.7
+            "5": 0.22.2
+            "8":
+                - 1
+                - 3
+            "12": 0.22.2
+            "13": windows-amd64
+C:
+    value: 0.011745096957501555
+l1_ratio:
+    value: 0.024627161169552547
+max_iter:
+    value: 200
+penalty:
+    value: elasticnet
+solver:
+    value: saga
