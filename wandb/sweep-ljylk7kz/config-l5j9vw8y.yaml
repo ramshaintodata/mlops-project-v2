@@ -1,0 +1,12 @@
+wandb_version: 1
+
+C:
+  value: 929.3192348946671
+l1_ratio:
+  value: 0.8293309118197092
+max_iter:
+  value: 100
+penalty:
+  value: elasticnet
+solver:
+  value: saga

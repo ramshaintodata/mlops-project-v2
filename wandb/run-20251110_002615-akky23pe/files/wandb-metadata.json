@@ -1,0 +1,28 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.13.7",
+  "startedAt": "2025-11-09T19:26:15.720494Z",
+  "program": "c:\\Users\\LENOVO\\Documents\\Repository\\Data And Ai\\mlops-project-v2\\mlops-project-v2\\loan-approval-classification-eda-ml.ipynb",
+  "codePath": "loan-approval-classification-eda-ml.ipynb",
+  "codePathLocal": "loan-approval-classification-eda-ml.ipynb",
+  "git": {
+    "remote": "https://github.com/ramshaintodata/mlops-project-v2.git",
+    "commit": "5aa2a82243fd6d16fcab8544165524129da136a8"
+  },
+  "email": "ramshanaseem1@gmail.com",
+  "root": "c:\\Users\\LENOVO\\Documents\\Repository\\Data And Ai\\mlops-project-v2\\mlops-project-v2",
+  "host": "DESKTOP-1HG1J2G",
+  "executable": "c:\\Users\\LENOVO\\Documents\\Repository\\Data And Ai\\mlops-project-v2\\mlops-project-v2\\venv\\Scripts\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "254931890176",
+      "used": "249134219264"
+    }
+  },
+  "memory": {
+    "total": "8379490304"
+  },
+  "writerId": "cj8902owknbp25n0i0xwqx3yek2ie1tu"
+}
