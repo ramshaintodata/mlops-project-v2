@@ -8,10 +8,12 @@ __pycache__/
 
 
 wandb/
+
+
 # Distribution / packaging
 .Python
 build/
-develop-eggs/
+develop-egggits/
 dist/
 downloads/
 eggs/
